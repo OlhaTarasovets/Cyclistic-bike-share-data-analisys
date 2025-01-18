@@ -54,5 +54,5 @@ annual members and casual riders differ, why casual riders would buy a membershi
 digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
 
-Moreno has assigned me the first question to answer: **How do annual members and casual
+Moreno has assigned me the question to answer: **How do annual members and casual
 riders use Cyclistic bikes differently?**
